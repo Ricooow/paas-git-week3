@@ -1,4 +1,4 @@
 ## Identitas Praktikum
-- Nama: ...
-- Kelas: ...
+- Nama: Enrico Arianto
+- Kelas: XII SIJA 2
 - Minggu: 3
